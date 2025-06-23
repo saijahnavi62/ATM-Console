@@ -17,15 +17,24 @@ Features
 
 ->No transaction history is stored for simplicity.
 
+
 Technologies Used
+
 *Java (Core Java)
+
 *JDBC for database connectivity
+
 *MySQL 
 
+
 Database
+
 ->Stores user account details like name, PIN, and account balance.
+
 ->Admin details, pin
 
+
 Functional
+
 It supports both customer-side features (like checking balance and withdrawing cash) and admin-side features (like managing customer accounts). The system uses a relational database to store basic customer details and account balances.
 
