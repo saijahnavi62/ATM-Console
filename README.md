@@ -39,3 +39,6 @@ Functional
 
 It supports both customer-side features (like checking balance and withdrawing cash) and admin-side features (like managing customer accounts). The system uses a relational database to store basic customer details and account balances.
 
+
+
+![Screenshot (2)](https://github.com/user-attachments/assets/190c0fda-b761-4ebb-91fb-9f868d3b5dd0)
