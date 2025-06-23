@@ -27,6 +27,7 @@ Technologies Used
 *MySQL 
 
 
+
 Database
 
 ->Stores user account details like name, PIN, and account balance.
