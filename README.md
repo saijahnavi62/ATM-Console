@@ -6,10 +6,15 @@ This is a pure Java-based ATM application that simulates basic banking operation
 Features
 
 ->User authentication using PIN
+
 ->Balance inquiry
+
 ->Cash withdrawal and deposit
-->Data persistence using MySQL database  
+
+->Data persistence using MySQL database 
+
 ->Console-based user interface
+
 ->No transaction history is stored for simplicity.
 
 Technologies Used
