@@ -22,7 +22,7 @@ Technologies Used
 
 *Java (Core Java)
 
-*JDBC for database connectivity
+*JDBC for database connectivity(Manually connecting to the database using JDBC and closing the connection after use)
 
 *MySQL 
 
