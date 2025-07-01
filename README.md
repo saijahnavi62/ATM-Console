@@ -1,5 +1,5 @@
 ATM-Console
-Backend service for ATM operations using pure java. Handles user authentication, account transactions
+Backend service for ATM operations using core java. Handles user authentication, account transactions
 
 This is a pure Java-based ATM application that simulates basic banking operations such as checking balance, withdrawing cash, and depositing money. The application connects to the database to store and retrieve customer details securely.
 
